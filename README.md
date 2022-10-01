@@ -29,7 +29,7 @@ Query String 参数：
 | noise | 浮点数 |  生成时使用的 noise_factor，可用于控制感情等变化程度。默认为0.667。 |
 | format | 字符串 |  生成语音的格式，必须为mp3或者wav。默认为mp3。 |
 
-示例：[http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=派蒙](http://245671.proxy.nscc-gz.cn:8888/?text=你好speaker=枫原万叶)
+示例：[http://233366.proxy.nscc-gz.cn:8888/?text=你好&speaker=枫原万叶](http://245671.proxy.nscc-gz.cn:8888/?text=你好speaker=枫原万叶)
 
 
 
