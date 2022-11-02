@@ -2,10 +2,8 @@
 
 本repo包含了我用于训练原神VITS模型对源代码做出的修改，以及新的config文件。
 
-由于各种原因，模型和数据集暂无法公布，感兴趣可以自行提取，自行训练。
+预训练模型： http://obs.baimianxiao.cn/share/obs/sankagenkeshi/G_809000.pth
 
-此外，也可以尝试使用公开的api：[http://245671.proxy.nscc-gz.cn:8888/ ](http://245671.proxy.nscc-gz.cn:8888/?text=%E4%BD%A0%E5%A5%BD%E5%91%80&speaker=枫原万叶)来进行尝试，此API可用于二创等用途，但禁止用于任何商业用途。
-可视化合成在写了
 感谢星尘以及国家超级计算广州中心提供的算力支持，感谢VITS模型作者Jaehyeon Kim, Jungil Kong, and Juhee Son，感谢ContentVEC作者 Kaizhi Qian.
 本模型训练时使用的所有音频文件版权属于米哈游科技（上海）有限公司。
 
