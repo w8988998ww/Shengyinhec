@@ -4,6 +4,8 @@
 
 预训练模型： http://obs.baimianxiao.cn/share/obs/sankagenkeshi/G_809000.pth
 
+请注意，下方的API均已经停止运行。
+
 感谢星尘以及国家超级计算广州中心提供的算力支持，感谢VITS模型作者Jaehyeon Kim, Jungil Kong, and Juhee Son，感谢ContentVEC作者 Kaizhi Qian.
 本模型训练时使用的所有音频文件版权属于米哈游科技（上海）有限公司。
 
